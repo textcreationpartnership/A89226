@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of great consequence; sent by the Honorable, Robert Lord Monro, out of the Kingdom of Ireland, to the Honorable, the Committee for the Irish affairs in England, concerning the state of the rebellion there. Together with the relation of a great victory he obtained, and of his taking the Earl of Antrim, about whom w[a]s found divers papers, which discovered a dangerous plot against the Protestants in all his Majesties dominions, their plot being set down by consent of the Queens majestie, for the ruine of religion, and overthrow of His Majesties three Kingdoms. Ordered by the Commons in Parliament, that this letter be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>Monro, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89226</idno>
+            <idno type="STC">Wing M2453</idno>
+            <idno type="STC">Thomason E59_18</idno>
+            <idno type="STC">ESTC R14682</idno>
+            <idno type="EEBO-CITATION">99859717</idno>
+            <idno type="PROQUEST">99859717</idno>
+            <idno type="VID">155294</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155294)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E59[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of great consequence; sent by the Honorable, Robert Lord Monro, out of the Kingdom of Ireland, to the Honorable, the Committee for the Irish affairs in England, concerning the state of the rebellion there. Together with the relation of a great victory he obtained, and of his taking the Earl of Antrim, about whom w[a]s found divers papers, which discovered a dangerous plot against the Protestants in all his Majesties dominions, their plot being set down by consent of the Queens majestie, for the ruine of religion, and overthrow of His Majesties three Kingdoms. Ordered by the Commons in Parliament, that this letter be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Monro, Robert.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husbands,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>July 8. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155294:1" rendition="simple:additions"/>
+            <p>A LETTER Of great Conſequence; Sent by the Honorable, <hi>Robert</hi> Lord <hi>Monro,</hi> out of the Kingdom of IRELAND, To the Honorable, The Committee for the Iriſh affairs in ENGLAND, <hi>Concerning the ſtate of the Rebellion there.</hi>
+            </p>
+            <p>Together with the Relation of a great Victory he obtained, and of his taking the Earl of <hi>Antrim,</hi> about whom w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s found divers Papers, which diſcovered a dangerous PLOT Againſt the Proteſtants in all His Majeſties Do<g ref="char:EOLhyphen"/>minions, their Plot being ſet down by conſent of the QUEENS Majeſtie, for the Ruine of Religion, and overthrow of His Majeſties three Kingdoms.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons in Parliament, That this Letter be forthwith printed and publiſhed:</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>Edw. Husbands.</hi> July 8. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155294:2"/>
+            <pb n="3" facs="tcp:155294:2"/>
+            <head>A Letter of great conſequence, ſent by the Honorable, <hi>Robert</hi> Lord <hi>Monro,</hi> out of the Kingdom of Jreland, to the Honorable, the Committee for the Jriſh affairs in England, concerning the ſtate of the Rebellion there.</head>
+            <opener>
+               <salute>Right Honorable;</salute>
+            </opener>
+            <p>EXpect nothing from your Honours reall and faithfull Servant in this adverſe time, but what brings comfort; In my laſt Expedi<g ref="char:EOLhyphen"/>tion againſt the Rebells, occaſioned by ſud<g ref="char:EOLhyphen"/>den Intelligence, I went forth with two thou<g ref="char:EOLhyphen"/>ſand Foot, and three hundred Horſe, being provided for ten dayes at no greater allowance
+<pb n="4" facs="tcp:155294:3"/>then ſeven Ounces of Meale a day for a Soul<g ref="char:EOLhyphen"/>dier, our ſcarcity being ſo great, that for want of Victualls and Shoes wee were un<g ref="char:EOLhyphen"/>able to do the ſervice wee wiſh, or your Honours expect from us; Nevertheleſſe our fortune was ſuch, that with this ſmall party, without Canon, for want of carriage Hor<g ref="char:EOLhyphen"/>ſes, we beat <hi>Owen Maccart Oneale,</hi> Sir <hi>Philome Oneale,</hi> and <hi>Owen Maccart</hi> the Generall his ſon, being all joyned together with their Forces, and forced them to return upon <hi>Charlemount,</hi> after quitting the Generalls houſe to be ſpoil<g ref="char:EOLhyphen"/>ed and burnt by us, with the whole houſes in <hi>Lochgall,</hi> being the beſt Plantation in <hi>Vlſter,</hi> and ſtraiteſt for defence of the Rebels: At the ſame time Colonell <hi>Hoome,</hi> with a party of five hundred men, was buſied in beleaguering the Caſtle of <hi>Newcastle;</hi> the receit of all the Intel<g ref="char:EOLhyphen"/>ligence comes from <hi>England</hi> to the Rebells in <hi>Vlſter,</hi> where it was my good fortune, in time of Treaty there, to truſt a Barque come from the Iſle of <hi>Man,</hi> with that treacherous Papiſt the Earl of <hi>Antrim,</hi> whoſe Brother <hi>Alexander</hi> was ſent before to the Queens Majeſtie from
+<pb n="5" facs="tcp:155294:3"/>
+               <hi>York,</hi> to make way for the Earl, in negotiating betwixt Her Majeſties Army in the North of <hi>England,</hi> and the Papiſts on the borders of <hi>Scotland,</hi> in the Iſles of <hi>Scotland</hi> and the North parts thereof, and with the Rebells in <hi>Ireland;</hi> their Plot being ſet down by the Queens Ma<g ref="char:EOLhyphen"/>jeſties conſent, for the ruine of Religion, and overthrow of His Majeſties loyall Subjects in all the three Dominions, as evidently doth appear by the Letters, Characters, Paſſes and Papers found with the Earl, directed by me to the Councell of <hi>Scotland</hi> and the Generall. It becometh me, as the ſervant of the Publique, intruſted with your Commiſsion under the Great Seal of <hi>England,</hi> to inform truly your Honours of the great prejudice, the Cauſe in hand ſuffers by your Honours neglect of this Army being unable to do ſervice as might be expected from them, if they received the half of the Allowance your Souldiers receive at <hi>Dublin,</hi> and had Allowance for ſome Horſes for Carriage; in my opinion, in ſix weeks time we could ſettle Garriſons in <hi>Vlſter,</hi> and thereafter overſway your Enemies elſwhere,
+<pb n="4" facs="tcp:155294:4" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:155294:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:155294:6"/>in any part within His MAjESTIES Do<g ref="char:EOLhyphen"/>minions, where your Enemies prevailed moſt.</p>
+            <p>Therefore my weak opinion is, this Ar<g ref="char:EOLhyphen"/>my be not neglected wherein conſiſts ſo much of your peace and ſafety, having no friends you can repoſe in o more then in us, who is deſirous to ſee Religion flouriſh, Rebells ſubjected to Obedience, and His MAjES<g ref="char:EOLhyphen"/>TIES Throne eſtabliſhed, in deſpite of Pa<g ref="char:EOLhyphen"/>piſts, and of wicked Councell miſ-leading His Majeſtie to the ruine of His Domini<g ref="char:EOLhyphen"/>ons, who could be the happieſt Prince in the World if the Lord could move his heart to harken to the counſell of thoſe which ſhed their bloud for his honour.</p>
+            <p>The Earle of ANTRIM ſhall God wil<g ref="char:EOLhyphen"/>ling be kept cloſe in the Caſtle of <hi>Carrickfer<g ref="char:EOLhyphen"/>gus,</hi> till I be acquainted from your Honors concerning him, what courſe ſhall be taken with him; and the Traitour conveyed him laſt away is to bee executed, ſince we can ex<g ref="char:EOLhyphen"/>tort no diſcovery from him then is contai<g ref="char:EOLhyphen"/>ned in the Papers ſent to SCOTLAND: So
+<pb n="7" facs="tcp:155294:6"/>recommending your Honours, and your weighty Affaires to the Direction and Pro<g ref="char:EOLhyphen"/>tection of the Almighty, deſirous to heare from you, I remaine</p>
+            <closer>
+               <signed>Your moſt humble, truly affectio<g ref="char:EOLhyphen"/>nate, and reall Servant, <hi>Robert Monro,</hi> Generall Major.</signed>
+               <dateline>Carickfergus, <date>the 23. of May, 1643.</date>
+               </dateline>
+            </closer>
+            <trailer>To the Right Honorable; My very noble Friends, theſe on the Jriſh Committee of the Parliament of England, preſent theſe; With due reſpects.</trailer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
